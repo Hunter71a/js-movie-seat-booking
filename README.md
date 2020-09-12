@@ -1,6 +1,6 @@
 # js-movie-seat-booking
 
-This is a quick project to practice a vanilla JavaScript input form with limited DOM manipulation 
+This is a quick project to practice a JavaScript DOM manipulation 
 and use of local storage to create the basic actions of selecting seats from available seats and
 calculating a final price. 
 
