@@ -7,4 +7,4 @@ calculating a final price.
 [Link to live demo!](https://hunter71a.github.io/demoProjects/js-form-validator/index.html)
 
 
-![alt text](https://github.com/Hunter71a/js-form-validator/blob/master/screen.PNG?raw=true)
+![alt text](https://github.com/Hunter71a/js-movie-seat-booking/blob/master/screen.PNG?raw=true)
